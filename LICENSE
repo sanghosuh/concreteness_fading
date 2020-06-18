@@ -1,0 +1,21 @@
+Copyright (c) 2020 Sangho Suh
+All rights reserved.
+
+Redistribution and use of this repository and the associated dataset 
+(the "Software"), with or without modification, are permitted provided 
+that the following conditions are met: 
+
+* Redistributions of repository must retain the above copyright notice, this
+  list of conditions and the following disclaimer.
+
+* Redistributions of the dataset in any form must retain the above copyright notice, this
+  list of conditions and the following disclaimer.
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, 
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES OR LIABILITY, WHETHER IN AN ACTION 
+OF CONTRACT, TORT (INCLUDING NEGLIGENCE OR OTHERWISE) OR OTHERWISE, ARISING FROM, 
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE, 
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
