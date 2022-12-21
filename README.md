@@ -6,7 +6,7 @@ implementations and naming schemes for concreteness fading. This shows a lack of
 
 **Solution:** Thus, we open-source this dataset to support a shared understanding of the technique and suggest this repository as an interface through which researchers can learn about and exchange materials on concreteness fading.
 
-**Contribute**: Please contribute any missing resource on concreteness fading by editing the dataset directly or report suggestions/issues [here](https://github.com/sanghosuh/concreteness_fading-dataset/issues). (FYI, Google spreadsheet has a version history feature, so it's okay if you accidentally delete some records. Just let us know.)
+**Contribute**: Please contribute any missing resource on concreteness fading by editing the <a href="https://docs.google.com/spreadsheets/d/14qlqKLBrsBoyajdYDESxlwqr5YIqeGi0Ii_3zynVuU4/edit?usp=sharing" target="_blank">dataset</a> directly or report suggestions/issues <a href="https://github.com/sanghosuh/concreteness_fading-dataset/issues" target="_blank">here</a>. (FYI, Google spreadsheet has a version history feature, so it's okay if you accidentally delete some records. Just let us know.)
 
 **Repository:** This repository contains a description of the dataset and a link to the dataset in Google spreadsheet, which allows you to interact with the dataset. For instance, you can filter the dataset to see a set of studies conducted with primary school children or find a group of concreteness fading designs using 3-stage progression; you can also contribute to this dataset by adding any missing resource(s).
 
