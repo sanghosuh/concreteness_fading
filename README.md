@@ -83,6 +83,6 @@ S. Suh, M. Lee, and E. Law, “How Do We Design for Concreteness Fading? Survey,
 ```
 
 ## Contact
-- sanghosuh@ucsd.edu
+- sh31659@gmail.com
 
 [Last update: 12/20/2022]
