@@ -6,7 +6,7 @@ implementations and naming schemes for concreteness fading. This shows a lack of
 
 **Solution:** Thus, we open-source this dataset to support a shared understanding of the technique and suggest this repository as an interface through which researchers can learn about and exchange materials on concreteness fading.
 
-**Contribute**: Please contribute any missing resource on concreteness fading by editing the <a href="https://docs.google.com/spreadsheets/d/14qlqKLBrsBoyajdYDESxlwqr5YIqeGi0Ii_3zynVuU4/edit?usp=sharing" target="_blank">dataset</a> directly or report suggestions/issues <a href="https://github.com/sanghosuh/concreteness_fading-dataset/issues" target="_blank">here</a>. (FYI, Google spreadsheet has a version history feature, so it's okay if you accidentally delete some records. Just let us know.)
+**Contribute**: Please contribute any missing resource on concreteness fading by editing the [dataset](https://docs.google.com/spreadsheets/d/14qlqKLBrsBoyajdYDESxlwqr5YIqeGi0Ii_3zynVuU4/edit?usp=sharing) directly or report suggestions/issues [here](https://github.com/sanghosuh/concreteness_fading-dataset/issues). (FYI, Google spreadsheet has a version history feature, so it's okay if you accidentally delete some records. Just let us know.)
 
 **Repository:** This repository contains a description of the dataset and a link to the dataset in Google spreadsheet, which allows you to interact with the dataset. For instance, you can filter the dataset to see a set of studies conducted with primary school children or find a group of concreteness fading designs using 3-stage progression; you can also contribute to this dataset by adding any missing resource(s).
 
@@ -70,9 +70,19 @@ For a comprehensive review of concreteness fading, we conducted a systematic sea
    - For `participant_age`, `target_group`, `sample_size`, `order_of_progression`, `num_of_stages`, and `sequence`, the general implication (i.e., **not applicable** or **couldn't find**) applies.
 
 ## Reference
-1. S. Suh, M. Lee, and E. Law, “How Do We Design for Concreteness Fading? Survey, General Framework, and Design Dimensions,” in Proceedings of the 19th ACM Conference on Interaction Design and Children, 2020. [[paper]](https://sanghosuh.github.io/papers/concreteness_idc.pdf)  [[presentation]](https://youtu.be/g4jDyxiFDTY)
+S. Suh, M. Lee, and E. Law, “How Do We Design for Concreteness Fading? Survey, General Framework, and Design Dimensions,” in Proceedings of the 19th ACM Conference on Interaction Design and Children, 2020. [[paper]](https://sanghosuh.github.io/papers/concreteness_idc.pdf)  [[presentation]](https://youtu.be/g4jDyxiFDTY)
+
+```
+@inproceedings{suh2020we,
+  title={How do we design for concreteness fading? survey, general framework, and design dimensions},
+  author={Suh, Sangho and Lee, Martinet and Law, Edith},
+  booktitle={Proceedings of the Interaction Design and Children Conference},
+  pages={581--588},
+  year={2020}
+}
+```
 
 ## Contact
-- sangho.suh@uwaterloo.ca
+- sanghosuh@ucsd.edu
 
-[Last update: 06/17/2020]
+[Last update: 12/20/2022]
