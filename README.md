@@ -1,20 +1,20 @@
 # Concreteness Fading (Dataset)
 
 ## Overview
-**Motivation:** <br>
-Our comprehensive [literature review on concreteness fading](https://sanghosuh.github.io/papers/concreteness_idc.pdf) has shown that there are many different implementations and naming schemes for concreteness fading. This shows a lack of a shared understanding of the technique and the interface for various disciplines and research communities to communicate and inform each other.
+#### Motivation
+Our [literature review on concreteness fading](https://sanghosuh.github.io/papers/concreteness_idc.pdf) has shown that there are many different implementations and naming schemes for concreteness fading. This shows a lack of a shared understanding of the technique and the interface for various disciplines and research communities to communicate and inform each other.
 
-**Solution:** <br>
+#### Solution
 Thus, we open-source this dataset to support a shared understanding of the technique and suggest this repository as an interface through which researchers can learn about and exchange materials on concreteness fading.
 
-**Contribute:** <br>
+#### Contribute
 Please contribute any missing resource on concreteness fading by editing the [spreadsheet](https://docs.google.com/spreadsheets/d/14qlqKLBrsBoyajdYDESxlwqr5YIqeGi0Ii_3zynVuU4/edit?usp=sharing) directly or adding the paper on the [web app](https://www.appsheet.com/newshortcut/1c40a60a-3b9c-478a-af40-1e5dcd9167af). (FYI, Google spreadsheet has a version history feature, so it's okay if you accidentally delete some records. Just let us know.)
 
-**Repository:** <br>
-This repository contains a description of the dataset and two interfaces for updating and interacting with the dataset. 
+#### Repository
+This repository contains a description of the dataset and links to two interfaces for updating and interacting with the dataset. 
 
-**Interface:** <br>
-There are two interfaces: (1) Google [spreadsheet](https://docs.google.com/spreadsheets/d/14qlqKLBrsBoyajdYDESxlwqr5YIqeGi0Ii_3zynVuU4/edit?usp=sharing) and (2) [web app](https://www.appsheet.com/newshortcut/1c40a60a-3b9c-478a-af40-1e5dcd9167af). 
+#### Interface
+The two interfaces are: (1) Google [spreadsheet](https://docs.google.com/spreadsheets/d/14qlqKLBrsBoyajdYDESxlwqr5YIqeGi0Ii_3zynVuU4/edit?usp=sharing) and (2) [web app](https://www.appsheet.com/newshortcut/1c40a60a-3b9c-478a-af40-1e5dcd9167af). 
 - The spreadsheet and web app allow you to interact with the dataset. For instance, on the spreadsheet, you can filter the dataset to see a set of studies conducted with primary school children or find a group of concreteness fading designs using 3-stage progression; you can also contribute to this dataset by adding any missing paper(s) such as your paper(s) to help others discover your work. 
 - Note that the web app is displaying data in the spreadsheet. Thus if you add a paper in the spreadsheet and refresh the web app, it will display the newly added paper(s). 
 
