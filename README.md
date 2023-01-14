@@ -2,7 +2,7 @@
 
 ## Overview
 #### Motivation
-Our [literature review on concreteness fading](https://sanghosuh.github.io/papers/concreteness_idc.pdf) has shown that there are many different implementations and naming schemes for concreteness fading. This shows a lack of a shared understanding of the technique and the interface for various disciplines and research communities to communicate and inform each other.
+Our [literature review on concreteness fading](https://dl.acm.org/doi/10.1145/3392063.3394413) has shown that there are many different implementations and naming schemes for concreteness fading. This shows a lack of a shared understanding of the technique and the interface for various disciplines and research communities to communicate and inform each other.
 
 #### Solution
 Thus, we open-source this dataset to support a shared understanding of the technique and suggest this repository as an interface through which researchers can learn about and exchange materials on concreteness fading.
@@ -19,7 +19,7 @@ The two interfaces are: (1) Google [spreadsheet](https://docs.google.com/spreads
 - Note that the web app is displaying data in the spreadsheet. Thus if you add a paper in the spreadsheet and refresh the web app, it will display the newly added paper(s). 
 
 ## Dataset [[spreadsheet](https://docs.google.com/spreadsheets/d/14qlqKLBrsBoyajdYDESxlwqr5YIqeGi0Ii_3zynVuU4/edit?usp=sharing)][[web app](https://www.appsheet.com/newshortcut/1c40a60a-3b9c-478a-af40-1e5dcd9167af)] 
-For a comprehensive review of concreteness fading, we conducted a systematic search with six research databases covering all potential disciplines: computing (ACM Digital Library and IEEE Xplore), Education (ERIC), Multidisciplinary (SCOPUS, Google Scholar, Web of Science). We also expanded our search terms beyond "concreteness fading" to ensure that we do not miss any paper that may be relevant and useful. These terms are listed below. You can find more details on our [paper](https://sanghosuh.github.io/papers/concreteness_idc.pdf).
+For a comprehensive review of concreteness fading, we conducted a systematic search with six research databases covering all potential disciplines: computing (ACM Digital Library and IEEE Xplore), Education (ERIC), Multidisciplinary (SCOPUS, Google Scholar, Web of Science). We also expanded our search terms beyond "concreteness fading" to ensure that we do not miss any paper that may be relevant and useful. These terms are listed below. You can find more details on our [paper](https://dl.acm.org/doi/10.1145/3392063.3394413).
 
 **Note**: More resources have been added since our original literature review, as the intention is to update this dataset continually.
 
@@ -78,7 +78,7 @@ For a comprehensive review of concreteness fading, we conducted a systematic sea
    - For `participant_age`, `target_group`, `sample_size`, `order_of_progression`, `num_of_stages`, and `sequence`, the general implication (i.e., **not applicable** or **couldn't find**) applies.
 
 ## Reference
-S. Suh, M. Lee, and E. Law, “How Do We Design for Concreteness Fading? Survey, General Framework, and Design Dimensions,” in Proceedings of the 19th ACM Conference on Interaction Design and Children, 2020. [[paper]](https://sanghosuh.github.io/papers/concreteness_idc.pdf)  [[presentation]](https://youtu.be/g4jDyxiFDTY)
+S. Suh, M. Lee, and E. Law, “How Do We Design for Concreteness Fading? Survey, General Framework, and Design Dimensions,” in Proceedings of the 19th ACM Conference on Interaction Design and Children, 2020. [[paper]](https://dl.acm.org/doi/10.1145/3392063.3394413)  [[presentation]](https://youtu.be/g4jDyxiFDTY)
 
 ```
 @inproceedings{suh2020we,
