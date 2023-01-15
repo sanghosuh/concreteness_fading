@@ -1,5 +1,9 @@
 # Concreteness Fading (Dataset)
 
+Watch this video first.
+
+[![video](https://i.imgur.com/AryL3Tt.png)](https://youtu.be/aRZqZ_3YEEo "Concreteness fading dataset")
+
 ## Overview
 #### Motivation
 Our [literature review on concreteness fading](https://dl.acm.org/doi/10.1145/3392063.3394413) has shown that there are many different implementations and naming schemes for concreteness fading. This shows a lack of a shared understanding of the technique and the interface for various disciplines and research communities to communicate and inform each other.
